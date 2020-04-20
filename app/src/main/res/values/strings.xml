@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ICC Hall of Fame</string>
+    <string name="key_name">name</string>
+    <string name="Page01">Choose, Best Batsman or Best Bowler</string>
+    <string name="Page02"> Go on!</string>
+    <string name="Page0_choice1">Sachin Ramesh Tendulkar</string>
+    <string name="Page0_choice2">Muttiah Muralidharan</string>
+
+    <string name="PageSRT1">1989, SRT\'s maiden international tour against Pakistan. It was then that a bouncer from Waqar bloodied SRT\'s nose. And the very next ball was banged for a four by the master blaster.</string>
+    <string name="PageSRT2">Ricky Ponting rates Brian Lara higher than SRT. Interestingly, against Ricky\'s captaincy, SRT has scored 1352 runs at an averages of 70+.</string>
+    <string name="PageSRT_choice1">Waqar Younis</string>
+    <string name="PageSRT_choice2">Ricky Ponting</string>
+
+    <string name="PageWY1">https://www.youtube.com/watch?v=tSHQzRyKpTA</string>
+    <string name="PageWY2">MM took 800 wickets in test matches in 133 matches against 373 by Waqar in 87 matches.</string>
+    <string name="PageWY_choice1">Ricky Ponting</string>
+    <string name="PageWY_choice2">Muttiah Muralidharan</string>
+
+    <string name="PageRP1">In ODI, Ricky Ponting has scored 13704 runs in 375 innings in comparison to Rahul Dravid\'s 10889 in 344 innings.</string>
+    <string name="PageRP2">Thank You</string>
+    <string name="PageRP_choice1">Rahul Dravid</string>
+    <string name="PageRP_choice2">Thank You!</string>
+
+    <string name="PageRD1">https://www.youtube.com/watch?v=G7ebjOAaGsg</string>
+    <string name="PageRD2">Thank You!</string>
+    <string name="PageRD_choice1">Waqar Younis</string>
+    <string name="PageRD_choice2">Thank You!</string>
+
+    <string name="PageMM1">https://www.youtube.com/watch?v=6ZRNqFynbCQ</string>
+    <string name="PageMM2">https://www.youtube.com/watch?v=TOaMQGndqxU</string>
+    <string name="PageMM_choice1">Sachin Ramesh Tendulkar</string>
+    <string name="PageMM_choice2">Rahul Dravid</string>
+
+    <string name="PageTY1">Thank You!</string>
+    <string name="PageTY2">Tata!</string>
+</resources>
